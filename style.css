@@ -3,7 +3,7 @@
 
 /* nastaveni barev */
 :root {
-	--cervena: #ff0844;
+	--cervena: rgb(0, 153, 255);
 	--oranzova: #ffb199;
 	--seda: #e0e0e0;
 }
