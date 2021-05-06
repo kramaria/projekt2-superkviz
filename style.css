@@ -16,7 +16,7 @@ body {
 	min-height: 100vh;
 	font-family: 'Nunito', sans-serif;
 	color: white;
-	background-image: linear-gradient(to top, var(--cervena) 0%, var(--oranzova) 100%);
+	background-image: linear-gradient(to top, var(--modra) 0%, var(--oranzova) 100%);
 }
 
 h1, h2, h3 {
@@ -50,7 +50,7 @@ h1 {
 	font-family: 'Bangers', cursive;
 	font-size: 24px;
 	text-align: center;
-	color: var(--cervena);
+	color: var(--modra);
 }
 
 #otazka {
@@ -76,7 +76,7 @@ h1 {
 	width: 100%;
 	height: auto;
 	border-radius: 50%;
-	border: 3px dotted var(--cervena);
+	border: 3px dotted var(--modra);
 }
 
 #moznosti {
@@ -100,7 +100,7 @@ h1 {
 }
 
 #odpovedi li:hover {
-	background-color: var(--cervena);
+	background-color: var(--modra);
 	color: white;
 	cursor: pointer;
 	transform: translateX(-10px);
@@ -114,5 +114,5 @@ h1 {
 .vysledek h2 {
 	margin-top: 0;
 	font-size: 36px;
-	color: var(--cervena);
+	color: var(--modra);
 }
